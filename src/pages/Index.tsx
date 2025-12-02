@@ -3,7 +3,7 @@ import { Card } from "@/components/ui/card";
 import { ArrowRight, Target, Search, FileCheck, Award } from "lucide-react";
 const Index = () => {
   const handleBookAppointment = () => {
-    window.open("https://victorium.zohobookings.eu/#/251779000000049052", "_blank");
+    window.open("zbooking.eu/WWIn3", "_blank");
   };
   return <div className="min-h-screen bg-background">
       {/* Hero Section */}
